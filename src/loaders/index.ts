@@ -23,5 +23,6 @@ export default async (
   } catch (err) {
     // ignore
     logger.warn(err);
+	console.log(err);
   }
 };

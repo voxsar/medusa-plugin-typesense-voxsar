@@ -19,7 +19,7 @@ import TypesenseService from "../services/typesense";
   
 	const product = await productService.retrieve(id)
 
-	console.log("Product updated", product)
+	//console.log("Product updated", product)
   
 	// do something with the product...
   }

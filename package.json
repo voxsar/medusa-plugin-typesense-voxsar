@@ -1,6 +1,6 @@
 {
   "name": "medusa-plugin-typesense-voxsar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typesense search plugin for Medusa Voxsar",
   "engines": {
     "node": ">=16"
